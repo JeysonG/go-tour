@@ -1,0 +1,8 @@
+{
+  "name": "GoTour",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5f289edd"
+}
